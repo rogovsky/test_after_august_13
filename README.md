@@ -8,3 +8,4 @@ access for pushing commits.
 
 2. Second test with credentials store in file was success too.
 
+3. Third test with credentials in ~/.config/git/credentials was OK!
